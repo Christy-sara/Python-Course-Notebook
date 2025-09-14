@@ -1,4 +1,4 @@
-# Python Course Notebook 🐍
+# Python Course Notebook 
 
 This repository contains my learning notes and code examples from a Python basics course.  
 I created this Jupyter Notebook as a structured reference to revise and practice Python concepts.

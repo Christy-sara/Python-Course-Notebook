@@ -14,5 +14,5 @@ I created this Jupyter Notebook as a structured reference to revise and practice
 - Object-Oriented Programming (Inheritance, Polymorphism, Abstraction, Encapsulation)
 
 ## 📂 Files
-- `Python_course.ipynb` → Jupyter Notebook with code + explanations
+- `Python_course(1).ipynb` → Jupyter Notebook with code + explanations
 - `Python_course.html` → HTML version (for quick preview without Jupyter)
